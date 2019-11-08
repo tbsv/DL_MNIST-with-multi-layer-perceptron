@@ -1,4 +1,4 @@
-# Deep Learning // MNIST with multi layer perecptron
+# Deep Learning // MNIST with multi layer perceptron
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tbsv/DL_MNIST-with-multi-layer-perceptron/master?filepath=MNIST-with-multi-layer-perceptron_solution.ipynb)
 
@@ -6,7 +6,7 @@ This is Binder-compatible repo with a `requirements.txt` file.
 
 ## Summary
 
-//TODO summary
+In this lesson, we will create a multi-layer perceptron model and try to classify handwritten numbers. This is a very common entry-level problem for Tensorflow.
 
 ## Contents
 
