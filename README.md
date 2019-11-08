@@ -41,6 +41,12 @@ Each cell of code can be run with `shift + enter` or you can run the entire note
 
 For more information on running Jupyter notebooks, see the [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/).
 
+## Documentation
+
+In the following documentation section, you can see the results, reproduce them in the notebook and compare them with the expected output.
+
+//TODO documentation
+
 ## Issues
 
 Please [open an issue](https://github.com/tbsv/DL_MNIST-with-multi-layer-perceptron/issues) if you encounter any problems while trying to run the notebooks.
