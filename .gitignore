@@ -94,6 +94,8 @@ modules.xml
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+MNIST_data
+*.log
 
 # IPython
 profile_default/
